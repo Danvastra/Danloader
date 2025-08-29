@@ -1,5 +1,5 @@
 # Danloader v1
-Program Python Dowloader Video
+Program Python Dowloader Video (for now, just YouTube)
 
 # Has been tested on Ubuntu(wsl) & Termux
 
